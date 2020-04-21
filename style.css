@@ -12,6 +12,11 @@
     position: relative;
 }
 #star{
-    position: absolute;
     z-index: 1;
 }
+/*.scale{
+    width: 10px;
+    height: 10px;
+    border-right: black solid 1px;
+    border-bottom: black solid 1px;
+}*/
